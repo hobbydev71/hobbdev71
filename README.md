@@ -14,7 +14,7 @@
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hobbydev71/)](https://github.com/hobbydev71/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/hobbydev71/)](https://github.com/hobbydev71/)
 
-[![Solidity](https://github.com/hobbydev71/hobbdev71/blob/main/solidity.png)](https://github.com/hobbydev71/)
+[![Solidity](https://github.com/hobbydev71/hobbydev71/blob/main/solidity.png)](https://github.com/hobbydev71/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&link=https://github.com/hobbydev71/)](https://github.com/hobbydev71/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white&link=https://github.com/hobbydev71/)](https://github.com/hobbydev71/)
 
