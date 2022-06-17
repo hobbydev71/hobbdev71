@@ -50,15 +50,23 @@
 
 --- 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobbydev71&theme=white" /> 
+<br>
+<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snowMan108&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=snowMan108&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br><br><br><br><br>
 
-<img align="center" alt="hobbydev71's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hobbydev71&show_icons=true&hide_border=true" /><br /><br />
+  [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=snowMan108&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/hobbydev71)
 
 ---
 
-### Connect with me:
-
-[github]: https://github.com/hobbydev71/
+<p align="center">
+  <a>
+    <img height="120" width="150" src="https://github.com/snowMan108/snowMan108/blob/main/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowMan108&theme=dark&hide_border=true"/>
+    <img height="120" width="150" src="https://github.com/snowMan108/snowMan108/blob/main/right.png">
+  </a>
+</p>
 
 <!---
 hobbydev71/hobbydev71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
